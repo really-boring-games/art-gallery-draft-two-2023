@@ -8,4 +8,7 @@ Really Boring Games
   <a href="https://red-spring-studio.github.io/game-one/" target="_blank">Game One</a> •
   <a href="https://red-spring-studio.github.io/game-two/">Game Two</a>
   
+  
+  ![](https://assets.codepen.io/6566924/blob-page.gif)
+  
 </p>
